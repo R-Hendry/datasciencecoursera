@@ -32,7 +32,7 @@ Ref: Danish Us Salam
 Pushing to git@github.com:519ebayproject/519ebayproject.git
 To git@github.com:519ebayproject/519ebayproject.git
  ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'git@github.com:519ebayproject/519ebayproject.git'
+error: failed to push some refs to 'git@github.com:xxxxxgit'
 hint: Updates were rejected because the tip of your current branch is behind
 hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
 hint: before pushing again.
@@ -46,7 +46,7 @@ Ref: R Hendry
 ###when faced with this error:
 
  ! [rejected]        master -> master (fetch first)
-error: failed to push some refs to 'https://github.com/aymar2604/datasciencecoursera.git'
+error: failed to push some refs to 'git@github.com:xxxxxgit'
 hint: Updates were rejected because the remote contains work that you do
 hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
