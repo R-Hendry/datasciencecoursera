@@ -40,7 +40,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ###do the following:
 
-"git push -f" or try "git pull origin master" 
+"git push -f" or try "git pull origin master".
 Ref: R Hendry
 
 ###when faced with this error:
@@ -59,4 +59,5 @@ It is likely that you have more than one master/repository.
 Simply go into the master that you dont want to use(in the git bash command prompt) and type "rm -rf .git"
 This should not remove the file but change it to a non-master repository.
 Then try "pushing" the data again from the master file that you do want to use.
+
 Ref: R Hendry
