@@ -18,7 +18,7 @@
 
 8) git push -u origin master
 
-9) Git Bash will ask you for your user name and password. Don't freak out, keep writing the password even if you don't see anything on the screen. Hit enter and that's it!
+9) Git Bash will ask you for your user name and password. 
 
 10) Refresh your GitHub repository page and you will now see the required file there.
 
