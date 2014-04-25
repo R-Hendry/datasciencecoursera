@@ -2,7 +2,7 @@
 
 ###Steps:
 
-1) Open Git Bash, In command window write:
+1) If using Windows, open Git Bash; on a Mac or in Linux open up the terminal. In command window write:
 
 2) cd datasciencecoursera - to change directory
 
@@ -18,7 +18,7 @@
 
 8) git push -u origin master
 
-9) Git Bash will ask you for your user name and password. 
+9) Git Bash (or terminal) will ask you for your user name and password. 
 
 10) Refresh your GitHub repository page and you will now see the required file there.
 
